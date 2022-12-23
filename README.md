@@ -12,7 +12,7 @@ The following table shows the mapping of sensations:
  | -2    | cool              |   
  | -3    | cold              | 
 
-The dataset is given in an excel file named CollectedData.xlsx, see sheet 2 of excel file. The dimension names (column headers) are not mentioned in the given file. The table below describes the columns which will be of interest.
+The dataset is given in an excel file named CollectedData.xlsx, see sheet 2 of excel file. The dimension names (column headers) are not mentioned in the given file. The table below describes the columns which are of interest.
 
  |Column number	| Feature Name | Feature Description              |
  | -------------|:------------:| :-------------------------------:|
